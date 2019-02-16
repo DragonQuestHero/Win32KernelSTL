@@ -22,6 +22,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="CRT\c_alloc.cc">
       <Filter>Header Files\CRT</Filter>
     </ClCompile>
@@ -33,9 +36,6 @@
     </ClCompile>
     <ClCompile Include="CRT\stlcrt.cc">
       <Filter>Header Files\CRT</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cc">
-      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
